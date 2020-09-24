@@ -556,6 +556,11 @@ select {
   margin-top: 20px;
 }
 
+.rest-recent-purchases [class*="col"] {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
 .rest-recent-purchases h3 {
   padding-bottom: 20px;
   font-weight: 600;
