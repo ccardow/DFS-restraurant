@@ -624,12 +624,15 @@ font-weight: 600;
   color: #666;
 }
 
-.product-info {
+.product-info, .farm-info {
   background-color: #FAFAFA;
   display: flex;
   flex-direction: column;
- 
   justify-content: center;
+}
+
+.product-info {
+  align-items: center;
 }
 
 .product-info-read-more {
